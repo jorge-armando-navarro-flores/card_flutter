@@ -1,6 +1,6 @@
-# band-name-generator-start
+# Card flutter
 
-With this little script you can get a simple ideas for you new music band
+This little app shows how to use different widgets and fonts to create a presentation card on flutter
 
-![band_name](/screenshots/card.png)
+![card](/screenshots/card.png)
 
